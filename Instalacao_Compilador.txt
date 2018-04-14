@@ -1,0 +1,24 @@
+  ----------------------------------
+  Como instalar o Compilador do Ruby
+  ----------------------------------
+
+
+  no Linux:
+     sudo apt-get install ruby-full
+  
+  no Ubuntu:
+     sudo apt-get install ruby-full
+
+  no Debian:
+     sudo apt-get install ruby-full
+
+  
+  ------------------------------------------
+   Como compilar um arquivo ruby no Terminal
+  ------------------------------------------
+
+   1) Abra o terminal
+   2) navegue até o diretorio onde se encontra o arquivo ruby
+   3) coloque no terminal: ruby nomedoprograma.rb 
+   4) pronto! ele começa a compilar o arquivo
+    
